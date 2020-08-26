@@ -1,0 +1,15 @@
+body {
+    position: relative;
+}
+
+.amianto {
+
+    width: 70%;
+    height: max-content;
+    margin-top: 8% !important;
+    right: 15%;
+    position: absolute !important;
+    padding: 20px;
+    border-radius: 25px !important;
+
+}
